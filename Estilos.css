@@ -36,3 +36,21 @@ h1{
     width: 200px;
     height: 200px;
 }
+.Planta {
+    color: green;
+}
+.Fuego {
+    color: red;
+}
+.Volador {
+    color: skyblue;
+}
+.Agua {
+    color: blue;
+}
+.Bicho {
+    color: greenyellow;
+}
+.Veneno {
+    color: violet;
+}
